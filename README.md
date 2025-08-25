@@ -25,7 +25,7 @@ AminGPT یک مدل هوش مصنوعی مکالمه‌محور به زبان ف
 
 این پروژه توسط **محمد امین مرادی** توسعه یافته است.
 
-[صفحه سازنده](AminGPTـV1.1.apk)
+[صفحه سازنده](AminGPTـV1.1.apkhttps://elipideveloper.github.io/Mohammad-Amin-Moradi/)
 
 ---
 
