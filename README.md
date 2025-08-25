@@ -21,12 +21,9 @@ AminGPT یک مدل هوش مصنوعی مکالمه‌محور به زبان ف
 
 می‌توانید نسخه جدید **AminGPT V1.1** را از لینک زیر دانلود کنید:
 
-[AminGPT_V1.1.apk - دانلود](https://myket.ir/app/appinventor.ai_mohammadaminmoradi1133.AI)
+[AminGPT_V1.1.apk - دانلود از مایکت](https://myket.ir/app/appinventor.ai_mohammadaminmoradi1133.AI)
 
-
-می‌توانید نسخه جدید **AminGPT V1.1** را از لینک زیر دانلود کنید:
-
-[AminGPT_V1.1.apk - دانلود](https://myket.ir/app/appinventor.ai_mohammadaminmoradi1133.AI)
+[AminGPT_V1.1.apk - دانلود مستقیم](https://github.com/ELIPIdeveloper/AminGPT/blob/main/AminGPT_V1.1.apk)
 
 
 ---
